@@ -81,4 +81,5 @@ int main()
 	obj2.Output();
 
 	system("pause");
+	//fin
 }
